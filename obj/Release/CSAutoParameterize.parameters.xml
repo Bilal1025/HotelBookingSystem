@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="sqlCon1-Web.config Connection String" description="sqlCon1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:hotelbookingsystem.database.windows.net,1433;Initial Catalog=Hotel;User ID=Bilal;Password=QW[]14zx" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bilal\\Documents\\Visual\ Studio\ 2015\\Projects\\WebApplication7\\WebApplication7\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlCon1']/@connectionString" />
+  </parameter>
+</parameters>

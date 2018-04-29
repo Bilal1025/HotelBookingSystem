@@ -1,0 +1,13 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CoreCompileInputs.cache
